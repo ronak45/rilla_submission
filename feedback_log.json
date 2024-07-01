@@ -1,0 +1,86 @@
+[
+    {
+        "timestamp": "2024-06-29T18:18:03.061902",
+        "feedback": "positive",
+        "temperature": 0.7,
+        "user_input": "Hello!",
+        "bot_response": "Hello! How can I assist you with information about movies, actors, or directors today?"
+    },
+    {
+        "timestamp": "2024-06-29T18:18:24.333119",
+        "feedback": "positive",
+        "temperature": 0.7,
+        "user_input": "What movies do leonardo decaprio star in?",
+        "bot_response": "Leonardo DiCaprio has starred in the following movies:\n\n1. The Great Gatsby\n2. Gangs of New York\n3. The Aviator\n4. The Departed\n5. Total Eclipse\n6. The Basketball Diaries\n7. Titanic\n8. The Man in the Iron Mask\n9. William Shakespeare's Romeo + Juliet\n10. Blood Diamond"
+    },
+    {
+        "timestamp": "2024-06-30T21:30:11.169160",
+        "feedback": "positive",
+        "temperature": 0.7,
+        "user_input": "Hello!",
+        "bot_response": "Hello! How can I assist you with information about movies, actors, or directors today?"
+    },
+    {
+        "timestamp": "2024-06-30T21:33:25.425238",
+        "feedback": "positive",
+        "temperature": 0.7,
+        "user_input": "Hello!",
+        "bot_response": "Hello! How can I assist you with information about movies, actors, or directors today?"
+    },
+    {
+        "timestamp": "2024-06-30T21:33:55.231269",
+        "feedback": "negative",
+        "temperature": 0.7,
+        "user_input": "What movies are Gal Gadot in?",
+        "bot_response": "Gal Gadot is an Israeli actress known for her roles in various films. Here are some notable movies she has starred in:\n\n1. **Wonder Woman (2017)**\n2. **Wonder Woman 1984 (2020)**\n3. **Batman v Superman: Dawn of Justice (2016)**\n4. **Justice League (2017)**\n5. **Zack Snyder's Justice League (2021)**\n6. **Fast & Furious franchise**:\n   - **Fast & Furious (2009)**\n   - **Fast Five (2011)**\n   - **Fast & Furious 6 (2013)**\n7. **Keeping Up with the Joneses (2016)**\n8. **Criminal (2016)**\n9. **Triple 9 (2016)**\n10. **Red Notice (2021)**\n11. **Death on the Nile (2022)**\n12. **Redemption (Hebrew: Kicking Out Shoshana) (2014)**\n\nThese movies highlight her versatility as an actress and her prominent role in Hollywood, especially as Wonder Woman."
+    },
+    {
+        "timestamp": "2024-06-30T21:35:29.146490",
+        "feedback": "negative",
+        "temperature": 0.6,
+        "user_input": "There are more movies that Gal Gadot are in",
+        "bot_response": "Gal Gadot is an Israeli actress and model best known for her role as Wonder Woman in the DC Extended Universe. Here are some of the notable films she has appeared in:\n\n1. **Fast & Furious (2009)** - as Gisele Yashar\n2. **Fast Five (2011)** - as Gisele Yashar\n3. **Fast & Furious 6 (2013)** - as Gisele Yashar\n4. **Furious 7 (2015)** - as Gisele Yashar (archive footage)\n5. **Batman v Superman: Dawn of Justice (2016)** - as Diana Prince / Wonder Woman\n6. **Criminal (2016)** - as Jill Pope\n7. **Keeping Up with the Joneses (2016)** - as Natalie Jones\n8. **Wonder Woman (2017)** - as Diana Prince / Wonder Woman\n9. **Justice League (2017)** - as Diana Prince / Wonder Woman\n10. **Ralph Breaks the Internet (2018)** - as Shank (voice)\n11. **Wonder Woman 1984 (2020)** - as Diana Prince / Wonder Woman\n12. **Zack Snyder's Justice League (2021)** - as Diana Prince / Wonder Woman\n13. **Red Notice (2021)** - as The Bishop\n14. **Death on the Nile (2022)** - as Linnet Ridgeway-Doyle\n\nThese are some of her most prominent roles, particularly in blockbuster films. She has also appeared in a variety of other projects, both in film and television."
+    },
+    {
+        "timestamp": "2024-06-30T21:37:07.060438",
+        "feedback": "positive",
+        "temperature": 0.5,
+        "user_input": "What movies are Woody Allen in ?",
+        "bot_response": "Woody Allen is a prolific filmmaker who has appeared in numerous movies, many of which he directed himself. Here are some notable films in which Woody Allen has acted:\n\n1. **\"Annie Hall\" (1977)** - Directed by Woody Allen\n2. **\"Manhattan\" (1979)** - Directed by Woody Allen\n3. **\"Hannah and Her Sisters\" (1986)** - Directed by Woody Allen\n4. **\"Sleeper\" (1973)** - Directed by Woody Allen\n5. **\"Love and Death\" (1975)** - Directed by Woody Allen\n6. **\"Crimes and Misdemeanors\" (1989)** - Directed by Woody Allen\n7. **\"Broadway Danny Rose\" (1984)** - Directed by Woody Allen\n8. **\"Zelig\" (1983)** - Directed by Woody Allen\n9. **\"Take the Money and Run\" (1969)** - Directed by Woody Allen\n10. **\"Bananas\" (1971)** - Directed by Woody Allen\n11. **\"Everything You Always Wanted to Know About Sex* (*But Were Afraid to Ask)\" (1972)** - Directed by Woody Allen\n12. **\"Radio Days\" (1987)** - Directed by Woody Allen\n13. **\"Deconstructing Harry\" (1997)** - Directed by Woody Allen\n14. **\"Small Time Crooks\" (2000)** - Directed by Woody Allen\n15. **\"Hollywood Ending\" (2002)** - Directed by Woody Allen\n16. **\"Anything Else\" (2003)** - Directed by Woody Allen\n17. **\"Melinda and Melinda\" (2004)** - Directed by Woody Allen\n18. **\"Scoop\" (2006)** - Directed by Woody Allen\n19. **\"Cassandra's Dream\" (2007)** - Directed by Woody Allen (voice role)\n20. **\"To Rome with Love\" (2012)** - Directed by Woody Allen\n\nThese films showcase Woody Allen's talent both in front of and behind the camera, often portraying neurotic, intellectual characters."
+    },
+    {
+        "timestamp": "2024-06-30T21:37:38.213666",
+        "feedback": "positive",
+        "temperature": 0.4,
+        "user_input": "What movies are Keanu Reeves in?",
+        "bot_response": "Keanu Reeves has appeared in several films, including:\n\n- Something's Gotta Give\n- The Replacements\n- Johnny Mnemonic\n- The Devil's Advocate\n- The Matrix Revolutions\n- The Matrix Reloaded\n- The Matrix\n\nIf you need information about more movies or specific details about any of these films, feel free to ask!"
+    },
+    {
+        "timestamp": "2024-06-30T21:48:00.578877",
+        "feedback": "negative",
+        "temperature": 0.7,
+        "user_input": "Where was Keanu Reeves born?",
+        "bot_response": "I can only answer questions related to movies, actors, or directors. If you have any questions about Keanu Reeves' movies or career, feel free to ask!"
+    },
+    {
+        "timestamp": "2024-06-30T21:48:33.218157",
+        "feedback": "positive",
+        "temperature": 0.7999999999999999,
+        "user_input": "What movies are Keanu Reeves in?",
+        "bot_response": "Keanu Reeves has appeared in several notable movies, including:\n\n1. **Something's Gotta Give**\n2. **The Replacements**\n3. **Johnny Mnemonic**\n4. **The Devil's Advocate**\n5. **The Matrix Revolutions**\n6. **The Matrix Reloaded**\n7. **The Matrix**\n\nIf you need more information about any specific movie or other movies he has been in, feel free to ask!"
+    },
+    {
+        "timestamp": "2024-06-30T21:49:02.430254",
+        "feedback": "positive",
+        "temperature": 0.7,
+        "user_input": "What is the plot of the last movie you listed above?",
+        "bot_response": "\"The Matrix\" is a science fiction film released in 1999, directed by the Wachowskis. The story follows a computer hacker named Neo (played by Keanu Reeves) who discovers that the reality he lives in is actually a simulated reality created by intelligent machines to subdue the human population, while their bodies' heat and electrical activity are used as an energy source. Neo joins a group of rebels led by Morpheus (played by Laurence Fishburne) and Trinity (played by Carrie-Anne Moss) to fight against the machines and seek the truth about the Matrix. The film is known for its groundbreaking special effects, including the innovative use of \"bullet time\" slow-motion photography, and its exploration of philosophical and existential themes."
+    },
+    {
+        "timestamp": "2024-06-30T21:53:45.655003",
+        "feedback": "positive",
+        "temperature": 0.7,
+        "user_input": "Hey there!",
+        "bot_response": "Hello! How can I assist you with information about movies, actors, or directors today?"
+    }
+]
