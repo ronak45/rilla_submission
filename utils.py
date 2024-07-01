@@ -19,4 +19,4 @@ def write_message(role, content, save = True):
 # tag::get_session_id[]
 def get_session_id():
     return get_script_run_ctx().session_id
-# end::get_session_id[]
+# end::get_session_id[] #
