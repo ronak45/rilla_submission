@@ -21,7 +21,7 @@ I built an Neo4j-backed Chatbot using Python to answer questions above movies / 
 4. Change to base directory and run the app
     ```sh
     python3 dashboard/app.py
-5. Update the secretws in secrets.toml and create a sandbox at https://sandbox.neo4j.com/. 
+5. Update the secrets in secrets.toml and create a sandbox at https://sandbox.neo4j.com/. 
 6. Within the sandbox, run the below to create a moviePlots index:
 ```
 CREATE VECTOR INDEX moviePlots IF NOT EXISTS
