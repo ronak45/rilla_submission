@@ -1,5 +1,3 @@
-# Ronak Parikh - Rilla Take Home - July 1st, 2024
-
 ## About 
 I built an Neo4j-backed Chatbot using Python to answer questions above movies / movie plots that runs in the terminal. The chatbot maintains conversation history and dynamically adjusts its response generation parameters (temeperature or randomness) based on user feedback. 
 
